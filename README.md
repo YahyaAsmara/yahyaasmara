@@ -1,6 +1,15 @@
-# 👨‍💻 Full-Stack Developer & Hardware Enthusiast
+# 👨‍💻
+
+Welcome to my digital workshop where software meets hardware! I'm passionate about building scalable applications and tinkering with embedded systems.
 
 ## 🛠️ Tech Stack
+
+```yaml
+Frontend: React ⚛️
+Backend: Spring Boot 🍃
+Database: PostgreSQL 🐘
+Deployment: Docker 🐳
+```
 
 <div align="center">
 
@@ -25,15 +34,14 @@
 
 </div>
 
-## 📊 Stats
+## 📫 Links
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-</div>
+- 💼 **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/yahya-asmara/)
+- 📧 **Email**: yahya16005@gmail.com
 
 ---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <div align="center">
 <i>Building scalable web apps and embedded systems</i>
