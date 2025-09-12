@@ -36,7 +36,7 @@ Deployment: Docker 🐳
 
 ## 📫 Links
 
-- 💼 **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/yahya-asmara/)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/yahya-asmara/
 - 📧 **Email**: yahya16005@gmail.com
 
 ---
