@@ -1,6 +1,6 @@
 # 👨‍💻
 
-Welcome to my digital workshop where software meets hardware! I'm passionate about building scalable applications and tinkering with embedded systems.
+Welcome to my digital workshop! I'm passionate about building scalable applications and tinkering with embedded systems.
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +40,6 @@ Deployment: Docker 🐳
 - 📧 **Email**: yahya16005@gmail.com
 
 ---
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <div align="center">
 <i>Building scalable web apps and embedded systems</i>
