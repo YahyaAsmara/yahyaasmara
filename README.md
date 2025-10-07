@@ -1,6 +1,6 @@
 # 👨‍💻
 
-Welcome to my digital workshop! I'm passionate about building scalable applications and tinkering with embedded systems.
+I'm in love with Three.js. See my website: https://asmara.dev/
 
 ## 🛠️ Tech Stack
 
