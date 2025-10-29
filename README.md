@@ -2,10 +2,6 @@
 
 Hi! I'm Yahya (Yuki). I'm in love with Three.js. See my website: https://asmara.dev/
 
-## 
-
-</div>
-
 ## 💻
 
 <div align="center">
