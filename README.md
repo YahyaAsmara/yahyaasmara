@@ -2,6 +2,8 @@
 
 Hi! I'm Yahya (Yuki). I'm in love with Three.js. My website: https://asmara.dev/
 
+## tech
+
 <div align="center">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
@@ -23,7 +25,7 @@ Hi! I'm Yahya (Yuki). I'm in love with Three.js. My website: https://asmara.dev/
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-## 📫
+## links
 
 - **linkedIn**: https://www.linkedin.com/in/yahya-asmara/
 - **email**: yahya16005@gmail.com
