@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻
 
 Hi! I'm Yahya (Yuki). I'm in love with Three.js. See my website: https://asmara.dev/
@@ -32,4 +31,3 @@ Hi! I'm Yahya (Yuki). I'm in love with Three.js. See my website: https://asmara.
 - **email**: yahya16005@gmail.com
 
 ---
-```
