@@ -1,6 +1,6 @@
-# 👨‍💻
+# Hi! I'm Yahya (Yuki)
 
-Hi! I'm Yahya (Yuki). I'm in love with Three.js. My website: https://asmara.dev/
+https://asmara.dev/
 
 ## tech
 
