@@ -1,4 +1,4 @@
-# Hi! I'm Yahya
+# hey: im yahya
 
 https://asmara.dev/
 
