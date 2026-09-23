@@ -1,1 +1,3 @@
-hi! computer science student at the university of calgary. reach out to me anytime at yahya16005 [at] gmail [dot] com
+cs @ ucalgary 🌆
+
+contact: yahya16005 {@} gmail.com
